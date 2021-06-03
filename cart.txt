@@ -1,0 +1,3 @@
+Energy drink;250;sugary drink;9
+Cheetos;350;food;5
+Cheetos;350;food;5

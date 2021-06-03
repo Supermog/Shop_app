@@ -1,0 +1,60 @@
+Coca-Cola;400;sugary drink;50
+Cheetos;350;food;45
+Jack Daniels;3000;alcoholic drink;125
+Apple;80;fruit;3400
+Pear;85;fruit;2140
+Beer;250;alcoholic drink;320
+Onion;100;vegetable;250
+Cabbage;170;vegetable;430
+Paprika;70;vegetable;630
+Chocolate;200;sweets;480
+Lollipop;100;sweets;20
+Cellphone;5000;electronics;50
+Speaker;10000;electronics;80
+Candy;30;sweets;230
+Sprite;400;sugary drink;30
+Energy drink;250;sugary drink;69
+Orange;120;fruit;364
+Lemon;125;fruit;153
+Backpack;6000;clothing;24
+Bracelet;500;clothing;50
+Necklace;1000;clothing;65
+Cap;3000;clothing;48
+Vodka;2800;alcoholic drink;87
+Fanta;400;sugary drink;94
+Apple juice;250;juice;67
+Peach juice;250;juice;95
+Orange juice;260;juice;39
+Grape juice;280;juice;21
+Apricot juice;255;juice;83
+Frozen pizza;500;food;64
+Ice cream;300;sweets;85
+Bread;200;food;64
+Rice;300;food;59
+Melon;400;fruit;23
+Salad;600;food;43
+Sandwich;400;food;55
+Cake;300;sweets;120
+Cake(big);2000;sweets;10
+Sausage;100;food;324
+Cucumber;150;vegetable;25
+Earphones;4000;electronics;30
+Wine;1000;alcoholic drink;60
+Palinka;5000;alcoholic drink;45
+Champagne;800;alcoholic drink;62
+Tea;300;sugary drink;49
+Headphones;10000;electronics;43
+Pendrive;4000;electronics;36
+Socks;400;clothing;86
+Calculator;11500;electronics;69
+Banana;100;fruit;49
+Tomato;60;vegetable;93
+Pickles;600;food;81
+Squash;400;vegetable;59
+Keyboard;3000;electronics;35
+Mouse;3000;electronics;34
+Flip-flops;3000;clothing;45
+Headband;2000;clothing;53
+Ginger;300;sugary drink;64
+Jacket;5000;clothing;15
+Plum;50;fruit;259

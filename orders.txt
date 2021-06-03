@@ -1,0 +1,6 @@
+valami;jani;1234-1234-4312-4321
+Coca-Cola;sugary drink;400;5;2000:Jack Daniels;alcoholic drink;3000;5;15000
+janoslegyen;fennajanoshegyen;4321-4567-5432-3566
+Coca-Cola;sugary drink;400;5;2000:Sprite;sugary drink;400;8;3200
+janoslegyen;fennajanoshegyen;4321-1234-4321-1234
+Chocolate;sweets;200;6;1200
